@@ -16,7 +16,7 @@ namespace _32_LeThiNhung_Extra
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ex9());
+            Application.Run(new ex11());
         }
     }
 }

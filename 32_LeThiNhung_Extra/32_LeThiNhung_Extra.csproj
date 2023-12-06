@@ -52,11 +52,11 @@
     <Compile Include="ex1.Designer.cs">
       <DependentUpon>ex1.cs</DependentUpon>
     </Compile>
-    <Compile Include="ex10.cs">
+    <Compile Include="ex11.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ex10.Designer.cs">
-      <DependentUpon>ex10.cs</DependentUpon>
+    <Compile Include="ex11.Designer.cs">
+      <DependentUpon>ex11.cs</DependentUpon>
     </Compile>
     <Compile Include="ex2.cs">
       <SubType>Form</SubType>
@@ -111,8 +111,8 @@
     <EmbeddedResource Include="ex1.resx">
       <DependentUpon>ex1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ex10.resx">
-      <DependentUpon>ex10.cs</DependentUpon>
+    <EmbeddedResource Include="ex11.resx">
+      <DependentUpon>ex11.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ex2.resx">
       <DependentUpon>ex2.cs</DependentUpon>
